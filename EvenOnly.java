@@ -8,7 +8,7 @@ public class EvenOnly {
         int [] arr = new int[10];
         int i;
         for(i = 0; i < 10; i++) {
-            System.out.println("Enter 1Integer: " +(i+1));
+            System.out.println("Enter Integer: " +(i+1));
             arr[i] = scn.nextInt();
 
         }
