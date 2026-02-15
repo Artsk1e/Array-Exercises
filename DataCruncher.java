@@ -30,3 +30,19 @@ public class DataCruncher {
         System.out.println("The Highest Temperature in the Last 5 Days: °C " + max);
     }
 }
+
+
+//Exercise 2: The Data Cruncher (Loops & Arrays)
+//Goal: Move data into a structure and manipulate it.
+
+//Task: Create a "Daily Temperature Tracker."
+
+//Requirements:
+
+//Create an array of 5 integers (representing 5 days of temps).
+
+//Use a for loop to ask the user to input the temperature for each day.
+
+//After the loop finishes, run a second loop to find the highest temperature in that array.
+
+//Print the highest temp and the average temp of the week.
